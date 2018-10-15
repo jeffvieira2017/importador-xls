@@ -19,7 +19,7 @@
 
     </form>
 
-    <h3>Gerar Excel</h3>
+    <h3>Gerar Excel com informações vindas do banco</h3>
 
     <form name="excel" action="processa_excel.php" method="post">
 
